@@ -8,6 +8,7 @@ The 'voltCurrentProcessor.m ' is a MATLAB program that process a data file conta
 	4. 'findAvg2Std.m' is a function that split data into layers and find the average and two standard error of each layer.
 
 A data file should have four columns: (Please make sure that every line of data has four columns, especially the last line)
+
 	1) Time steps in negative millisecond
 	2) Voltage or Current identifier
 	3) Voltage or Current value
